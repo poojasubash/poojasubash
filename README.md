@@ -1,5 +1,3 @@
-![logo](https://github.com/dharanikumar07/dharanikumar07/blob/main/github-b.png)
-<br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+Scroll+down!+👇;+Loved+your+visit+❤️;+&center=true&size=30&color=ffffff">
