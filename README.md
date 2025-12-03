@@ -13,7 +13,7 @@
 
 💼 I’m currently working on **Full Stack Developer**<br>
 
-🌱 I’m currently learning **React JS and Node js**<br>
+🌱 I’m currently learning **AWS**<br>
 
 💬 Ask me about **Programming**<br>
 
