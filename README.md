@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+Scroll+down!+👇;+Loved+your+visit+❤️;+&center=true&size=30&color=ffffff">
   </a>
 </h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
+<h3 align="center">A passionate AWS Cloud Engineer from India.</h3>
 
 <img align="right" alt="Coding" width="400" height="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -11,11 +11,11 @@
 
 ## 💫 About Me:
 
-💼 I’m currently working on **Full Stack Developer**<br>
+💼 I’m currently working on **AWS core services**<br>
 
-🌱 I’m currently learning **AWS**<br>
+🌱 I’m currently learning **DevOps**<br>
 
-💬 Ask me about **Programming**<br>
+💬 Ask me about **Cloud Concepts**<br>
 
 💫 Open to collaborating on exciting projects<br>
 
